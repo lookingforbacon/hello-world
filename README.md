@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hey there, my name is Liz and I like cheese.
